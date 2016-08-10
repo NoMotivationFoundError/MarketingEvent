@@ -29,6 +29,20 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2016-08-09 02:05:10</sys_updated_on>
         </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-08-10 04:56:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5ecbf70bdb4122008d355ec0cf961965</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_21761_marketing_marketing_event" name="x_21761_marketing_marketing_event" sys_domain="global" view="Default view">ef0b86b2dbc522008d355ec0cf9619f0</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_21761_marketing_marketing_event" sys_domain="global" view="Default view">d6cbf70bdb4122008d355ec0cf961965</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-08-10 04:56:09</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_21761_marketing_marketing_event</name>
             <roles/>
